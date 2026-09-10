@@ -12,7 +12,8 @@ I lead work on [Sports Intelligence Playbooks](https://github.com/NVIDIA/sports-
 
 ## A little background
 
+- Nvidia (since 2025)
+- ex-Apple (8 years)
 - PhD — Johns Hopkins University (machine learning, computer vision, signal processing)
-- 8 years at Apple
 - Background in deep learning, computer vision, speech/audio, optimization, and GPU computing
 - Based in the San Francisco Bay Area
